@@ -1,2 +1,3 @@
-var number = 5
-number *= 10 
+function add(a, b) {
+  a + b
+}
